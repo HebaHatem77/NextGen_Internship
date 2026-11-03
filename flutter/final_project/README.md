@@ -35,7 +35,7 @@ The welcome screen introduces users to the food delivery application.
 
 Provides a login interface with input fields and validation.
 
-<img src="../final_project_ui/login1.png" width="200" alt="Login Screen">
+<img src="../final_project_ui/login.png" width="200" alt="Login Screen">
 
 <img src="../final_project_ui/login2.png" width="200" alt="Login Screen">
 
